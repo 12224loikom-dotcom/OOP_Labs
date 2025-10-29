@@ -1,0 +1,11 @@
+=== CLASS INFORMATION ===
+
+=== Set 1 ===
+Circle in Rhombus:
+  Rhombus - Diagonals: 8, 6, Area: 24
+  Circle - Radius: 2.4, Area: 18.0956, Circumference: 15.0796
+
+=== Set 2 ===
+Circle in Rhombus:
+  Rhombus - Diagonals: 10, 5, Area: 25
+  Circle - Radius: 2.23607, Area: 15.708, Circumference: 14.0496
